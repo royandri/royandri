@@ -10,7 +10,7 @@ Hi, I'm [Roy Andri](https://instagram.com/roy_andri), a passionate self taught p
 <a href="https://www.linkedin.com/in/roy-andri-52b10a183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="19" width="19" /></a>&nbsp;
 <a href="https://www.instagram.com/roy_andri" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Roy Andri" height="20" width="20" /></a>&nbsp;
 <a href="https://www.github.com/royandri" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Roy Andri" height="20" width="20" /></a>
-<a href="https://www.github.com/royandri" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Roy Andri" height="20" width="20" /></a>&nbsp;
+<a href="mailto:royandri.dev@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Roy Andri" height="20" width="20" /></a>&nbsp;
 
 <br>
 <p align="left">
