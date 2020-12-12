@@ -1,6 +1,6 @@
 # Hi there, I'm Roy Andri  👋
 
-Hi, I'm [Roy Andri](https://instagram.com/roy_andri), a passionate self taught programmer from Indonesia. Most of my time is not spent on writing code, but to find the best way how to write the code better 😄 . I'm a Full-Stack developer that usually work with JavaScript / Typescript (React, Vue, Node) Golang and Laravel.
+Hi, I'm [Roy Andri](https://instagram.com/roy_andri), a passionate self taught programmer from Indonesia. Most of my time is not spent on writing code, but to find the best way how to write the code better. I'm a Full-Stack developer that usually work with JavaScript / Typescript (React, Vue, Node) Golang and Laravel.
 
 #### About Me
 - Working as a Software Engineer for an Ecommerce Enabler startup based in Indonesia 
